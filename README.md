@@ -6,4 +6,4 @@ I modified <a href="https://packages.ubuntu.com/disco/plymouth-theme-breeze" tar
 [![Screen Capture](https://github.com/aryabartar/AryaBuntu-Plymouth-boot-theme/blob/master/preview.jpg)]()
 
 
-This is JUST4FUN.
+-This is JUST4FUN.
